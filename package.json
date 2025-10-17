@@ -1,7 +1,31 @@
 {
-  "name": "expo-platform",
-  "main": "expo-router/entry",
+  "name": "comic-reader",
+  "displayName": "Comic Reader Mobile",
   "version": "1.0.0",
+  "description": "A mobile manga/comic reader app with PDF support, reading history tracking, and library management. Built with React Native and Expo.",
+  "main": "expo-router/entry",
+  "keywords": [
+    "manga",
+    "comic",
+    "pdf-reader",
+    "mobile",
+    "react-native",
+    "expo",
+    "android",
+    "ios"
+  ],
+  "author": {
+    "name": "Vũ Dương",
+    "email": "vuduong1124@example.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vuduong1124/comic-reader-mobile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vuduong1124/comic-reader-mobile/issues"
+  },
+  "homepage": "https://github.com/vuduong1124/comic-reader-mobile#readme",
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",

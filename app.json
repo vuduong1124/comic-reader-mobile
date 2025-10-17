@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "expo-platform",
-    "slug": "expo-platform",
+    "name": "comic-reader",
+    "slug": "comic-reader",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "expoplatform",
+    "scheme": "comicreader",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -17,7 +17,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.minhduc08.expoplatform",
+      "package": "com.minhduc08.comicreader",
       "permissions": [
         "READ_EXTERNAL_STORAGE",
         "WRITE_EXTERNAL_STORAGE",
